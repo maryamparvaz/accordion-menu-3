@@ -1,5 +1,5 @@
 # accordion-menu-3
-- [Demo Project](https://maryamparvaz.github.io/To-do-list-2/)
+- [Demo Project](https://maryamparvaz.github.io/accordion-menu-3/)
 
 - Developed by Maryam Parvaz 🙎
 
