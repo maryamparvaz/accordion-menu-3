@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+        border-color: #11111166;
+
+}
+
+.greenn {
+        border-color: #40948a;
+}
